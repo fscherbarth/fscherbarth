@@ -28,18 +28,9 @@
 
 ---
 
-### 📊 GitHub Aktivität
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fscherbarth&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fscherbarth&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fscherbarth&layout=compact&theme=dark" />
-</p>
+### 🧩 GitHub Aktivität
+- Regelmäßige Commits & Wartung privater Repositories
+- Fokus auf Infrastruktur, Automatisierung & Stabilität
 
 ---
 
